@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira Alt",
+      "email": "aoliveira2@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "maria@empresa.com"
+    },
+    {
+      "name": "Ana Silva Alt",
+      "email": "anasilva2@negocio.com.br",
+      "id": 3
+    }
+  ]
+}
